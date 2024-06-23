@@ -1,0 +1,4 @@
+functions-framework==3.*
+google-cloud-logging==3.10.*
+mailjet-rest==1.*
+flask==2.*
